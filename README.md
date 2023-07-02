@@ -4,6 +4,7 @@ This Project was developed using the environment- STS-4(Spring tool suite 4)
 JDK-11 and Tomcat - 9.
 It is by default configured to this environment so after downloading or cloning it don't for get to change the environment to your machine.
 
+It does not containg JDBC configuration.
 
 
 
